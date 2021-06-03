@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers of some passages betweene the King, and the Commissioners of both kingdoms, about the propositions for peace, delivered to His Majesty. Being the heads of severall letters to the Speaker of the house of Peers, to the Scots commissioners, and to members of Parliament, and other gentlemen, sent from Nevvcastle. With the copy of a petition from Edenburgh, to the King. Printed, examined and published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90862</idno><idno type="EEBO-CITATION">99861608</idno>
+  <idno type="VID">159816</idno>
+  <idno type="EEBO-PROQUEST">2248531659</idno>
+  
+            <idno type="STC">Wing P296</idno>
+            <idno type="STC">Thomason E349_6</idno>
+            <idno type="STC">ESTC R201023</idno>
+            <idno type="PROQUEST">99861608</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861608e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159816)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E349[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers of some passages betweene the King, and the Commissioners of both kingdoms, about the propositions for peace, delivered to His Majesty. Being the heads of severall letters to the Speaker of the house of Peers, to the Scots commissioners, and to members of Parliament, and other gentlemen, sent from Nevvcastle. With the copy of a petition from Edenburgh, to the King. Printed, examined and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159816:1"/>
+            <p>PAPERS Of some Passages betweene the KING, And the Commissioners of both Kingdoms, about the Propositions FOR PEACE, Delivered to His MAJESTY.</p>
+            <p>Being the Heads of severall Letters to the Speaker of the house of Peers, to the Scots Com<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sioners, and to Members of Parliament, and other Gentlemen, sent from NEVVCASTLE.</p>
+            <p>With the Copy of a Petition from Edenburgh, to the KING.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Printed, Examined, and published according to ORDER.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. G.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:159816:2"/>
+            <pb n="1" facs="tcp:159816:2"/>
+            <head>To the Kings most Excellent Majesty.</head>
+            <argument>
+               <p>The humble Petition of the Provest, Bayliffs and counsell of Edinburg, the representive body thereof convened in Counsell.</p>
+            </argument>
+            <p>WHereas Your Majesty hath beene gra<g ref="char:EOLhyphen"/>ciously pleased to cause publish a Proclamation here, declaring Your pious and Royall Resolutions for setling Religion and Peace in these afflicted Kingdomes, the Peti<g ref="char:EOLhyphen"/>tioners blesse God who hath put these thoughts in Your Majesties Royall heart, and do still pray the Almighty God to confirme them, and in his wisdom and power to assist Your Majesty in the diligent and timeous pro<g ref="char:EOLhyphen"/>secution of the same, as for this City the Petitioners acknowledge it their duty to testify to Your Maiesty and all the world, that according to their many Protestations and
+<pb n="2" facs="tcp:159816:3"/> solemne Covenants they do still as they did ever intertaine the consciences of all Loyall, and native duty to Your Majesty, from which they shall never depart,</p>
+            <p>
+               <hi>And therefore from the like sence of duty the Peti<g ref="char:EOLhyphen"/>tioners do humbly supplicate Your Majesty in this joynture of time, at which they conceive both Parliaments are to give in to Your Maje<g ref="char:EOLhyphen"/>sty Propositions for a happy Peace, that it would please Your Royall wisdome to take this opportunity to make use of there wholesome counsell, for setling true Religion and Peace in all Your Kingdomes, and for strengthning the union of the two Nations with your Ma<g ref="char:EOLhyphen"/>jesty and betwixt themselves, whereby we are confident glory shall redound to God, honour and happines to Your Majesty and Royall Po<g ref="char:EOLhyphen"/>sterity, and comfort to all Your Majesties good Subjects,</hi>
+            </p>
+            <p>
+               <hi>Which we shall be instant in Prayer to the Almighty God for, and (as in all bound duty become,</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Majesties Most humble most faithfull and obedient Subjects.</hi> Subscribed by the Provest and Bayliffs of Edenburg.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:159816:3"/>
+            <head>Heads of Letters to the <hi>Speaker of the House of Lords,</hi> the <hi>Scots Commissioners</hi> to Members of the house of Commons, and other Gentle<g ref="char:EOLhyphen"/>men from <hi>Newcastle.</hi>
+            </head>
+            <p>MAny other Petitions have beene delivered to His Majesty, to desire him to passe the Pro<g ref="char:EOLhyphen"/>positions. This Petition came very seasonably from Edenburgh before the delivery of the Propositions to the King, His Majesty received this and the rest, and said He would take the same into considerati<g ref="char:EOLhyphen"/>on, and would do what might be for a safe Peace: some His Majesty tould, that when the Propositions came Hee would speedily give a satisfactory An<g ref="char:EOLhyphen"/>swer.</p>
+            <p>The Commissioners of both Kingdomes having delivered the Propositions to His Majesty, Hee ask<g ref="char:EOLhyphen"/>ed if they had power to Treate, and being answered in the negative, His Majesty said that then they might have beene as well sent by an honest Trum<g ref="char:EOLhyphen"/>peter.</p>
+            <p>M. <hi>Martiall</hi> Preached a Sermon at Newcastle of Righteousnesse and Peace, after which His Majesty had some speech with him about some passages of some men in the Kingdome, in relation to his Ser<g ref="char:EOLhyphen"/>mon.</p>
+            <pb n="4" facs="tcp:159816:4"/>
+            <p>The Scots Ministers have preached severall Pre<g ref="char:EOLhyphen"/>parative Sermons before the King, to perswade Him to passe the Propositions; and have privately used all perswasions they could that Hee might be prepa<g ref="char:EOLhyphen"/>red to a resolution for the passing of them, and His Majesty hath still had Answers ready for those, who have used any Arguments in private to Him, about the same: which were such as caused a feare of not passing them.</p>
+            <p>There hath beene great Union and Love betwene the Commissioners both of England and Scotland, in the mannaging of the businesse they are intrusted with, about the Propositions.</p>
+            <p>M. <hi>Hinderson</hi> hath beene severall times with the King, and discoursed about the affaires of the King<g ref="char:EOLhyphen"/>domes, and His Majesty hath read much in some Books by him preached to Him.</p>
+            <p>His Majestie hath playd little at Goffe since the Commissioners came to Newcastle, nor of a few dayes before, and is of late very much given to privacie.</p>
+            <p>There have beene some complaints made by some from about Kirkleathome, and other parts in York<g ref="char:EOLhyphen"/>shire, to Lieutenant Generall <hi>David Lesly,</hi> against some unruly Souldiers; especially against those that were <hi>Vander Hurts</hi> men, which is to bee taken into consideration by the field Officers, as answer was given.</p>
+            <p>
+               <hi>Montrosse</hi> is not yet gone from Scotland, nor like<g ref="char:EOLhyphen"/>ly to depart untill he know what the event is about the Propositions.</p>
+            <p>The English Commissioners do nothing without the consent of the Scottish Commissioners, nor they
+<pb n="5" facs="tcp:159816:4"/> without consent of them, and no disagreement is a<g ref="char:EOLhyphen"/>mongst them in any thing in relation to the Propo<g ref="char:EOLhyphen"/>sitions.</p>
+            <p>The feares after the delivery of the Propositions (by what was observed) were dayly more and more; that the King would not passe the Propositions, yet still all possible meanes were used by all, in which his Lordship the E. of <hi>Pembrookes</hi> faithfulnesse, and prudence was great.</p>
+            <p>Since our Commissioners have been at Newcastle, there hath not beene such endeavourings by Malig<g ref="char:EOLhyphen"/>nants to have recouse to the Court.</p>
+            <p>His Majesty hath beene moved to send for Prince <hi>Charles</hi> to returne back from France, and to remaine in these Kingdomes.</p>
+            <p>Some few dayes after the Propositions were de<g ref="char:EOLhyphen"/>livered to the King: the Commissioners desired His Majestie to returne them answer with all speede that conveniently His Majesty could, to whom they recei<g ref="char:EOLhyphen"/>ved answer from His Majestie that He knew the time limited, and that within the time that was set they should receive an Answer from him. The Letters whereof these are the heads,</p>
+            <closer>
+               <dateline>Dated, <date>Iuly 30, 1646. </date> Newcastle.</dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Letters to the Scots Commissioners and others, dated Saturday last, At New<g ref="char:EOLhyphen"/>castle 1 <hi>August,</hi> 1646.</head>
+            <p>THat on the said Saturday <hi>1. August 1646.</hi> the Com<g ref="char:EOLhyphen"/>missioners received no answer of passing the Propo<g ref="char:EOLhyphen"/>sitions,
+<pb n="6" facs="tcp:159816:5"/> nor any thing save onely a Paper not possitive to the businesse, notwithstanding that the full time set them by their Instructions to waite for an answer was expected.</p>
+            <p>That His Majesty findes fault that they have not Commis<g ref="char:EOLhyphen"/>sions to expound the Propositions and debate of them, &amp;c.</p>
+            <p>That His Majesty finds fault that there is so short a time given Him, to give His answer to them.</p>
+            <p>That His Majesty desires that there may be a Treaty between His Majesty and both Kingdomes.</p>
+            <p>That His Majesty may come to London, and that He may reside neer the Parliament during a Treaty to be Held be<g ref="char:EOLhyphen"/>tween His Majesty and the Parliament.</p>
+            <p>That if there should be a Treaty it would make the setling of the Kingdomes (by all possibility) to be at as far a distance (or farther) from a period, as it was before the Propositions was begun to be debated.</p>
+            <p>That generally all well affected people about Newcastle are much troubled and sad, that His Majesty would not passe the Propositions:</p>
+            <closer>
+               <dateline>
+                  <date>Which Letters were Dated August. 1. 1646. </date> Newcastle.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
